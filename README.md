@@ -26,6 +26,14 @@ Além do ecossistema Apple, possuo conhecimento em Python, Java, C, JavaScript e
 />
 <img 
     align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
