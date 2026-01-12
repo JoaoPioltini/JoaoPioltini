@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Pioltini
+#  João Pioltini
 
 **`Desenvolvedor`**
 
