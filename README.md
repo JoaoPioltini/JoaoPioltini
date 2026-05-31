@@ -45,45 +45,13 @@ Desenvolvedor de software em formação pela Apple Developer Academy e graduando
 
 ---
 
-## 📱 Projetos em destaque
-
-### [NACO](https://github.com/JoaoPioltini/naco-videos) — App de culinária acessível
-App para pessoas com deficiência intelectual com instruções passo a passo, audiodescrição e interação por voz.
-`SwiftUI` `Speech` `AudioDescription` `Acessibilidade`
-
-### NareBatalha — Jogo multiplayer tvOS + iOS
-Jogo para Apple TV onde iPhones funcionam como controles via MultipeerConnectivity.
-`Swift` `SpriteKit` `MultipeerConnectivity` `tvOS`
-
-### Muscle Evolution — Rastreador de treinos
-Acompanhamento de evolução muscular com histórico detalhado por exercício e gráficos.
-`SwiftUI` `CoreData` `SwiftCharts`
-
-### MapIn — Mapas em realidade aumentada
-Experiência espacial de pontos de interesse em AR para Apple Vision Pro.
-`SwiftUI` `RealityKit` `visionOS`
-
-### [Pipeline RAG — MackLeaps](https://github.com/JoaoPioltini/JoaoPioltini)
-Sistema de IA com recuperação aumentada de informações: ingestão, chunking, embeddings e geração de respostas contextualizadas.
-`Python` `LLMs` `Embeddings` `RAG`
-
-### Sistema de Comercialização Agrícola
-Plataforma web para gestão de pedidos agrícolas com agrupamento automático para viabilizar lotes de colheita. Construído com arquitetura em camadas, autenticação, testes automatizados e CI/CD via GitHub Actions.
-`React` `Spring Boot` `PostgreSQL` `GitHub Actions` `REST API`
-
-### [Simulador de Tráfego Urbano](https://github.com/JoaoPioltini/JoaoPioltini)
-Simulação de estresse em malha viária real com agentes móveis e recálculo de rotas em tempo real.
-`Python` `OSMnx` `Dijkstra`
-
----
-
 ## 🎓 Formação & Experiência
 
 | | |
 |---|---|
-| 2025 – 2026 | **Apple Developer Academy \| Mackenzie** — Desenvolvedor de Software |
+| 2025 – 2026 | **Apple Developer Academy \| Mackenzie** — Desenvolvedor iOS (em andamento) |
 | 2024 – 2025 | **MackLeaps — Laboratório de Residência de Software** — Residente de Software |
-| 2023 – 2027 | **Universidade Presbiteriana Mackenzie** — Ciência da Computação |
+| 2023 – 2027 | **Universidade Presbiteriana Mackenzie** — Ciência da Computação (em andamento)|
 
 ---
 
