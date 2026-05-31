@@ -2,7 +2,7 @@
 
 **Desenvolvedor iOS** · São Paulo, BR
 
-Formado pela **Apple Developer Academy | Mackenzie** com mais de 5 aplicativos publicados na App Store. Atuo com Swift e SwiftUI seguindo arquitetura MVVM, e tenho experiência adicional em projetos de IA com pipelines RAG. Gosto de construir produtos que funcionam de verdade — acessíveis, bem estruturados e com atenção às boas práticas.
+Desenvolvedor de software em formação pela Apple Developer Academy e graduando em Ciência da Computação pelo Mackenzie. Já participei do desenvolvimento e publicação de mais de 5 aplicativos na App Store utilizando Swift, SwiftUI e arquitetura MVVM. Além do ecossistema Apple, possuo experiência em desenvolvimento full stack com Spring Boot, React, PostgreSQL, CI/CD e deploy de aplicações, bem como em projetos de IA utilizando pipelines RAG. Tenho interesse em construir produtos escaláveis, bem estruturados e que gerem impacto real para seus usuários.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopioltini-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopioltini)
 [![Email](https://img.shields.io/badge/Email-joaopioltini22@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:joaopioltini22@gmail.com)
